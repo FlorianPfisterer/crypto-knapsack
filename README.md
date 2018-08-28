@@ -19,7 +19,7 @@ optimal polynomial-time algorithm.
 
 **_But who says you can’t be the one? Give it a try!_**
 
-(Side note: if you find such an algorithm, you would have proved that
+(Side note: if you find such an algorithm, you will have proved that
 ![P=NP](https://timodenk.com/api/tex2img/%5Cmathcal%7BP%7D%3D%5Cmathcal%7BNP%7D?format=svg) -
 one of the seven [Millenium Prize Problems](https://en.wikipedia.org/wiki/Millennium_Prize_Problems)
 awarded $1 million for solving it).
